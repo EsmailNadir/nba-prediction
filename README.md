@@ -1,21 +1,24 @@
-# 🏀 NBA Player Performance Predictor
+<img width="1470" height="779" alt="Screenshot 2025-09-23 at 3 45 56 PM" src="https://github.com/user-attachments/assets/ee5d983b-dbfd-4b9f-8356-934ef06a15af" /># 🏀 NBA Player Performance Predictor
 
 A full-stack machine learning application that predicts NBA player point totals using advanced statistical analysis, opponent defensive metrics, and real-time schedule data.
 
 ## 📸 Screenshots
 
 ### Main Interface />
-![Deep Analysis Algorithm](https://github.com/user-attachments/assets/6b8c3d2e-1f90-4e5d-9f3e-2a948ba4090c)
+<img width="1470" height="777" alt="Screenshot 2025-09-23 at 3 45 17 PM" src="https://github.com/user-attachments/assets/6ce2123d-9555-452c-87f1-31dfe63a07bc" />
 
 
 
 
-### Deep Analysis Panel
-![NBA Predictor Main Interface](https://github.com/user-attachments/assets/5a948ba4-090c-46dc-98c6-b11479b7d49e)
-*Advanced analysis panel with data quality metrics and confidence factors*
+### Deep Analysis prediction
+<img width="2560" height="1440" alt="Screenshot 2025-09-23 at 3 45 02 PM (2)" src="https://github.com/user-attachments/assets/9b03560a-693f-4b5d-81b0-8c114f851d6c" />
+
 
 ### Deep Analysis Panel - Prediction Algorithm Details
-![Prediction Algorithm Details](https://github.com/user-attachments/assets/7c9e4f5b-3d90-4e5d-9f3e-3a948ba4090c)
+<img width="1470" height="779" alt="Screenshot 2025-09-23 at 3 45 56 PM" src="https://github.com/user-attachments/assets/f5fd9aaf-1136-4856-9b01-e546df9042a9" />
+
+
+
 *Detailed view of the prediction algorithm with base weights and combined factors*
 
 ## 🚀 Features
