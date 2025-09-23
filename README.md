@@ -1,11 +1,11 @@
-<img width="1470" height="779" alt="Screenshot 2025-09-23 at 3 45 56 PM" src="https://github.com/user-attachments/assets/ee5d983b-dbfd-4b9f-8356-934ef06a15af" /># 🏀 NBA Player Performance Predictor
+
 
 A full-stack machine learning application that predicts NBA player point totals using advanced statistical analysis, opponent defensive metrics, and real-time schedule data.
 
 ## 📸 Screenshots
 
 ### Main Interface />
-<img width="1470" height="777" alt="Screenshot 2025-09-23 at 3 45 17 PM" src="https://github.com/user-attachments/assets/6ce2123d-9555-452c-87f1-31dfe63a07bc" />
+<img width="2560" height="1440" alt="Screenshot 2025-09-23 at 3 44 14 PM (2)" src="https://github.com/user-attachments/assets/e7561138-80f3-459b-b69c-de0a092a4e62" />
 
 
 
