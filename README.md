@@ -5,16 +5,18 @@ A full-stack machine learning application that predicts NBA player point totals 
 ## 📸 Screenshots
 
 ### Main Interface />
+![Deep Analysis Algorithm](https://github.com/user-attachments/assets/6b8c3d2e-1f90-4e5d-9f3e-2a948ba4090c)
 
-![NBA Predictor Main Interface](https://github.com/user-attachments/assets/5a948ba4-090c-46dc-98c6-b11479b7d49e)
-*Main application interface showing LeBron James prediction with advanced analytics*
+
 
 
 ### Deep Analysis Panel
-<img width="1272" height="518" alt="Screenshot 2025-09-22 at 4 54 38 PM" src="https://github.com/user-![Uploading Screenshot 2025-09-23 at 3.45.17 PM.png…]()
-attachments/assets/5a948ba4-090c-46dc-98c6-b11479b7d49e" />
-
+![NBA Predictor Main Interface](https://github.com/user-attachments/assets/5a948ba4-090c-46dc-98c6-b11479b7d49e)
 *Advanced analysis panel with data quality metrics and confidence factors*
+
+### Deep Analysis Panel - Prediction Algorithm Details
+![Prediction Algorithm Details](https://github.com/user-attachments/assets/7c9e4f5b-3d90-4e5d-9f3e-3a948ba4090c)
+*Detailed view of the prediction algorithm with base weights and combined factors*
 
 ## 🚀 Features
 
