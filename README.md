@@ -7,6 +7,7 @@ A full-stack machine learning application that predicts NBA player point totals 
 ### Main Interface />
 
 *Main application interface showing LeBron James prediction with advanced analytics*
+![Uploading Screenshot 2025-09-23 at 3.45.17 PM.png…]()
 
 ### Deep Analysis Panel
 <img width="1272" height="518" alt="Screenshot 2025-09-22 at 4 54 38 PM" src="https://github.com/user-![Uploading Screenshot 2025-09-23 at 3.45.17 PM.png…]()
