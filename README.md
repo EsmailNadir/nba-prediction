@@ -5,13 +5,13 @@ A full-stack machine learning application that predicts NBA player point totals 
 ## 📸 Screenshots
 
 ### Main Interface />
-<img width="2560" height="1440" alt="Screenshot 2025-09-23 at 3 44 14 PM (2)" src="https://github.com/user-attachments/assets/e7561138-80f3-459b-b69c-de0a092a4e62" />
+<img width="1468" height="771" alt="Screenshot 2025-09-23 at 3 44 38 PM" src="https://github.com/user-attachments/assets/1d546f0e-2d88-47d4-98f9-0d98cba2dd63" />
 
 
 
 
 ### Deep Analysis prediction
-<img width="2560" height="1440" alt="Screenshot 2025-09-23 at 3 45 02 PM (2)" src="https://github.com/user-attachments/assets/9b03560a-693f-4b5d-81b0-8c114f851d6c" />
+<img width="1470" height="777" alt="Screenshot 2025-09-23 at 3 45 17 PM" src="https://github.com/user-attachments/assets/fdd9fd4b-c02a-4dc3-a374-6f1eac428502" />
 
 
 ### Deep Analysis Panel - Prediction Algorithm Details
